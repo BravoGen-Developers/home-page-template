@@ -6,6 +6,7 @@ background-color: #ff0000;
 {
 position: absolute;
 top: 35%;
+left: 15%;
 width: 70%;
 height: 25%;
 background-color: #ff4d4d;
@@ -15,7 +16,7 @@ transform: rotate(15deg);
 .div2
 {
 position: absolute;
-top: top: 37.5%;
+top: 37.5%;
 width: 65%;
 height: 22%;
 background: none;
