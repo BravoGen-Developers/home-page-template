@@ -22,4 +22,5 @@ height: 22%;
 background: none;
 border: white;
 opacity: .7;
+  z-index: 5;
 }
