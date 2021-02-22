@@ -16,11 +16,12 @@ transform: rotate(15deg);
 .div2
 {
 position: absolute;
+  left: 17%;
 top: 37.5%;
 width: 65%;
 height: 22%;
 background: none;
 border: 2px solid white;
-  opacity: .5;
+  opacity: .6;
   z-index: 5;
 }
