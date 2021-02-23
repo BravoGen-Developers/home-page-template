@@ -11,7 +11,6 @@ width: 70%;
 height: 25%;
 background-color: #2a48da;
 transform: rotate(7deg);
-  -webkit-clip-path: circle(50%);
 }
 
 .div2
@@ -25,4 +24,12 @@ background: none;
 border: 2px solid white;
   opacity: .6;
   z-index: 5;
+}
+
+.div3
+{
+  position: absolute;
+  width: 15%;
+  height: 15%;
+ clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); 
 }
