@@ -29,7 +29,9 @@ border: 2px solid white;
 .div3
 {
   position: absolute;
+  background: white;
+  z-index: 10;
   width: 15%;
   height: 15%;
- clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); 
+ -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); 
 }
