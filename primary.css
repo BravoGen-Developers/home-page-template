@@ -110,3 +110,22 @@ border: 2px solid white;
  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); 
 }
 
+.header1
+{
+position: absolute;
+font-size: 4vw;
+color: white;
+opacity: .89;
+left: 39%;
+top: 35%;
+}
+
+.header2
+{
+  position: absolute;
+  color: white;
+  opacity: .85;
+  font-size: 2.5vw;
+  left: 40%;
+  top: 45%;
+}
