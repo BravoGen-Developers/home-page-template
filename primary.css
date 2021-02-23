@@ -11,6 +11,7 @@ width: 70%;
 height: 25%;
 background-color: #2a48da;
 transform: rotate(7deg);
+  -webkit-clip-path: circle(50%);
 }
 
 .div2
