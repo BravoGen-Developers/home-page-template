@@ -1,6 +1,6 @@
 body
 {
-background-color: #2700ff;
+background-color: #180198;
 }
 .div1
 {
@@ -9,8 +9,9 @@ top: 35%;
 left: 15%;
 width: 70%;
 height: 25%;
-background-color: #2a48da;
+background-color: #000000;
 transform: rotate(7deg);
+box-shadow: 0px 0px 50px red;
 }
 
 .div2
@@ -140,4 +141,40 @@ underline
   height: 1%;
   border-radius: 40%
 
+}
+
+.navbar
+{
+  border-bottom: 2px solid white;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  height: 10%;
+  opacity: .85;
+}
+
+.navtitle
+{
+position: absolute;
+background: none;
+border: none;
+height: 100%;
+width: 15%;
+font-size: 1.78vw;
+color: white;
+left: 1%;
+font-family: 'RocknRoll One', sans-serif;
+}
+
+.navbutton
+{
+  position: relative;
+  left: 55%;
+  width: 15%;
+  height: 100%;
+  background: none;
+  border: none;
+  font-size: 1.8vw;
+  color: white;
+  font-family: 'RocknRoll One', sans-serif;
 }
