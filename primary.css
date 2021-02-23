@@ -26,7 +26,77 @@ border: 2px solid white;
   z-index: 5;
 }
 
-.div3
+.hexagon1
+{
+  position: absolute;
+  left: 15%;
+  top: 60%;
+  background: white;
+  z-index: 10;
+  width: 10%;
+  height: 18%;
+  opacity: .15;
+  transform: rotate(4deg);
+ -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); 
+}
+
+.hexagon2
+{
+  position: absolute;
+  left: 15%;
+  top: 60%;
+  background: white;
+  z-index: 10;
+  width: 10%;
+  height: 18%;
+  opacity: .15;
+  transform: rotate(4deg);
+ -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); 
+}
+
+.hexagon3
+{
+  position: absolute;
+  left: 15%;
+  top: 60%;
+  background: white;
+  z-index: 10;
+  width: 10%;
+  height: 18%;
+  opacity: .15;
+  transform: rotate(4deg);
+ -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); 
+}
+
+.hexagon4
+{
+  position: absolute;
+  left: 15%;
+  top: 60%;
+  background: white;
+  z-index: 10;
+  width: 10%;
+  height: 18%;
+  opacity: .15;
+  transform: rotate(4deg);
+ -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); 
+}
+
+.hexagon5
+{
+  position: absolute;
+  left: 15%;
+  top: 60%;
+  background: white;
+  z-index: 10;
+  width: 10%;
+  height: 18%;
+  opacity: .15;
+  transform: rotate(4deg);
+ -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); 
+}
+
+.hexagon6
 {
   position: absolute;
   left: 15%;
