@@ -1,6 +1,6 @@
 body
 {
-background-color: #ff0000;
+background-color: #2700ff;
 }
 .div1
 {
@@ -9,7 +9,7 @@ top: 35%;
 left: 15%;
 width: 70%;
 height: 25%;
-background-color: #ff4d4d;
+background-color: #2a48da;
 transform: rotate(15deg);
 }
 
