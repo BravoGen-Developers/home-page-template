@@ -129,3 +129,15 @@ top: 35%;
   left: 40%;
   top: 45%;
 }
+
+underline
+{
+  position: absolute;
+  top: 46%;
+  left: 29.5%;
+  background: white;
+  width: 40%;
+  height: 1%;
+  border-radius: 40%
+
+}
